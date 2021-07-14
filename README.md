@@ -7,7 +7,7 @@
 - Aquí están en Dart, pero pueden ser resueltos con una amplia gama de lenguajes.
 
 # Fuentes
-- Platzi
-- Nacho Cabanes
-- Geeks For Geeks
+- https://platzi.com/blog/retos-y-proyectos-portafolio/
+- http://www.nachocabanes.com/retos/propuestos.php
+- https://www.geeksforgeeks.org/computer-science-projects/
 - https://lifetechpsych.com/
